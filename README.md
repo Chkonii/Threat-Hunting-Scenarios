@@ -7,10 +7,10 @@ The objective of this project is to sift through raw telemetry to track intrusio
 Tools & Technologies
 Defensive Platforms (Blue): Microsoft Sentinel, Microsoft Defender for Endpoint (MDE)
 
-Adversary Emulation (Red): Atomic Red Team, PowerShell (Living off the Land), Python
+Adversary Emulation (Red): Atomic Red Team, PowerShell (Living off the Land), Python, Bash.
 
 Query Language: Kusto Query Language (KQL)
 
-Frameworks: MITRE ATT&CK
+Frameworks: MITRE ATT&CK, NIST SP 800-61
 
 Techniques: Hypothesis-Driven Hunting, Incident Containment, Telemetry Correlation, XDR Detection Engineering
